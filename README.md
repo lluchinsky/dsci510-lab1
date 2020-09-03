@@ -3,7 +3,7 @@
 #Lindsay Luchinsky
 #luchinsk@usc.edu
 
-The print code works with beginning parentheses, singular quote, argument, end singular quote, end parentheses.
+The print function works with beginning parentheses, singular quote, argument, end singular quote, end parentheses.
 
 Download the "lab1.py" file as a py. 
 
