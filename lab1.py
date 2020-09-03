@@ -1,3 +1,14 @@
-#Welcome to DCSCI510!
+#!/usr/bin/env python
+# coding: utf-8
 
-print('Welcome to DCSCI510!')
+# In[1]:
+
+
+print('Hello World!')
+
+
+# In[ ]:
+
+
+
+
